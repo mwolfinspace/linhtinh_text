@@ -38,7 +38,7 @@ Ngoài ra có thể thêm chú thích cho đường link bằng cách thêm chú
 
 Chèn hình ảnh trong Markdown chỉ khác với chèn link đôi chút. Bạn thêm ký tự `!` vào đầu tiên, sau đó ghi alt text và link ảnh vào trong ngoặc vuông `[]` và ngoặc tròn `()`.
 
-![if_letter_R_blue_1553067](/Users/mwolf/Documents/assets/if_letter_R_blue_1553067.png) 
+![if_letter_R_blue_1553067](https://raw.githubusercontent.com/1234hdpa/linhtinh_text/master/assets/if_letter_R_blue_1553067.png) 
 
 ## Định dạng danh sách
 
