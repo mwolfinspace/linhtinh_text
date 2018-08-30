@@ -150,6 +150,16 @@ Test :smile: bằng đoạn mã `:smile:` là được nhé.
 
 Còn :cry: thì bằng `:cry:` nha.
 
+## Chèn công thức toán trong dòng
+
+Áp dụng riêng cho ứng dụng Typora, trước tiên nhập ký tự `$` sau đó nhấn phím `ESC` và bắt đầu nhập công thức Toán học theo định dạng LaTeX, mọi thứ sẽ được hiển thị ở khung preview bên dưới. Ví dụ:
+
+$\sum_{x=0}^{n}3x=?$
+
+## Viết chỉ số dưới, chỉ số trên
+
+Áp dụng cho Typora, dùng ký tự `~` để bao quanh phần chữ cần đưa xuống chỉ số dưới như sau `H~2~` sẽ hiển thị là H~2~. Tương tự với chỉ số trên thì ta dùng ký hiệu `^` để bao quanh nội dung cần đưa lên chỉ số trên như `CH^3^` sẽ được hiểu là CH^3^ .
+
 ## Lý do chọn Markdown
 
 Nhanh, nhẹ, linh hoạt trong việc chỉnh sửa và đặc biệt không thèm động đến con chuột khi định dạng là điều mình thích nhất ở Markdown. Với việc tích hợp công thức toán và khả năng chuyển định dạng sang LATEX thì Markdown rất phù hợp cho người hay soạn thảo các bài viết Toán học như mình.
