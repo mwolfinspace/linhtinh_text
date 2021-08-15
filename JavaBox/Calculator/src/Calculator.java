@@ -29,6 +29,7 @@ public class Calculator {
                 break;
             default:
                 System.out.println("Invalid operator choice!!!");
+                input.close();
                 return;
         }
         System.out.println(number1 + " " + operator + " " + number2 + " = " + result);
