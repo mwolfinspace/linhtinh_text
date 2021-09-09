@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "JavaBox/Swing/src",
+        "JavaBox/ExceptionHandling/src"
+    ]
+}
